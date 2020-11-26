@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This bot is for people that are having trouble or are willing to learn more about the coding world! :)
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Guide new user into the coding world with mininum issues.
 
 ## Getting started
 
